@@ -6,7 +6,7 @@ This game enables you to play chess with a friend in the console.
 
 ###Description:
 
-The game uses unicode to display the characters in the console. PLayers can move the figures 
+The game uses unicode to display the characters in the console. Players can move the figures 
 and then the board is shown again after each move. Player input is given in standard chess notation
 e.g. e6 to e5.
 
